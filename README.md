@@ -1,22 +1,22 @@
-## Solar Cost Estimator
+# Solar Cost Estimator
 
 - A lightweight web app built with HTML, CSS, and JavaScript to estimate solar panel installation costs.
 
 ---
 
-# About
+## About
 
 - Solar Cost Estimator is a simple yet functional tool to help users estimate the cost of installing solar panels. It's fully client-side and doesn't require any server or backend
 
 ---
 
-# Demo
+## Demo
 
 - Check out the live version here: https://shantanu994.github.io/Solar-Cost-Estimator/
 
 ---
 
-# Features
+## Features
 
 - Intuitive input-driven interface
 
@@ -28,7 +28,7 @@
 
 ---
 
-# Installation
+## Installation
 
 1. Clone the repository:
 
@@ -38,7 +38,7 @@
 
 ---
 
-# How It Works
+## How It Works
 
 - The app uses JavaScript (via script.js) to capture user inputs.
 
