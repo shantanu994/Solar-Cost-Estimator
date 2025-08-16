@@ -1,5 +1,5 @@
 function goBack() {
-  window.location.href = "page1.html"; // Replace with your actual Page 1 file name
+  window.location.href = "index.html";
 }
 
 document.getElementById("solarForm").addEventListener("submit", function(event) {
